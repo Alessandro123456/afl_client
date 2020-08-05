@@ -1,7 +1,7 @@
 // Copyright 2016 Google Inc. All Rights Reserved.
 // Licensed under the Apache License, Version 2.0 (the "License");
-#include "home/heartbleed/openssl/ssl/ssl.h"
-#include "home/heartbleed/openssl/crypto/err/err.h"
+#include "home/client_afl/openssl/ssl/ssl.h"
+#include "home/client_afl/openssl/crypto/err/err.h"
 #include <assert.h>
 #include <stdint.h>
 #include <stddef.h>

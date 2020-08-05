@@ -1,7 +1,7 @@
 // Copyright 2016 Google Inc. All Rights Reserved.
 // Licensed under the Apache License, Version 2.0 (the "License");
-#include "home/afl_client/openssl/ssl/ssl.h"
-#include "home/afl_client/openssl/crypto/err/err.h"
+#include "/home/afl_client/openssl/ssl/ssl.h"
+#include "/home/afl_client/openssl/crypto/err/err.h"
 #include <assert.h>
 #include <stdint.h>
 #include <stddef.h>
